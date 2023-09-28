@@ -10,25 +10,28 @@ Los atajos emmet nos ayudarán a escribir y editar ``HTML`` y ``CSS`` más rápi
 
 ### Editar etiquetas
 
-Podemos usar ``CTRL+SHIFT+P`` para acceder al buscador, escribir ``EMMET`` y seleccionar atajos como: __encapsular etiqueta__.
+Podemos usar ``CTRL+SHIFT+P`` para acceder al buscador, escribir ``EMMET`` y seleccionar atajos como: __encapsular etiqueta__. También se puede crear atajos propios para utilizar estas etiquetas. 
 
-Se puede crear ``ATAJOS PROPIOS`` para utilizar estas etiquetas. En mi caso yo las he puesto en ``CTRL+SHIFT+´``. Podéis modificarlos dándole click a la rueda de ``SETTINGS``.
+Podéis modificarlos dándole click a la rueda de ``SETTINGS``.
 
 ![](imgs/atj2.png)
 
 ### Actualizar una etiqueta o varias etiquetas del mismo tipo
 
-Seleccionamos la linea donde esta la etiqueta que queremos modificar, y pulsamos varias veces ``CTRL+D`` para ir seleccionando las etiquetas (del mismo nombre) que queramos modificar..
+Seleccionamos la linea donde esta la etiqueta que queremos modificar, y pulsamos varias veces ``CTRL+D`` para ir seleccionando las etiquetas (del mismo nombre) que queramos modificar...
 
 ![](imgs/gif6.gif)
 
-
+----
 ### Envolver texto plano o etiquetas
 
 Seleccionamos el texto que queremos modificar, usamos el atajo personalizado o ``CTRL+SHIFT+P`` y buscamos 'actualizar etiqueta'. Después escribimos la nueva etiqueta en el buscador y presionamos ``ENTER``.
 
 ![](imgs/gif4.gif)
 
+En mi caso yo accedo directamente al atajo mediante ``CTRL+SHIFT+´``.
+
+----
 ### Crear varias etiquetas, estructuras personalizadas etc...
 
 En la mayoria de combinaciones escribiremos la __etiqueta HTML__ seguida de algún ``SELECTOR DE CSS`` para hacer la combinación que necesitemos en su momento. 
@@ -42,15 +45,16 @@ En la mayoria de combinaciones escribiremos la __etiqueta HTML__ seguida de alg�
 * ``{contenido}``: Nos permite escribir un contenido dentro de cada etiqueta.
 * ``(etiquetas)``: Nos permite agrupar los atajos emmet para crear multiples etiquetas en una sección o grupo determinado.
 
+----
 ### Ejemplo de divs
 
-``div.contenedor>div.box${caja$}*9``
+Sintaxis Emmet: ``div.contenedor>div.box${caja$}*9``
 
 ![](imgs/gif1.gif)
 
 ### Crear un elemento multiples veces
 
-``elemento*N``
+Sintaxis Emmet: ``elemento*N``
 
 ![](imgs/gif2.gif)
 
@@ -59,9 +63,10 @@ Los atajos propios de ``VScode`` nos ayudarán a realizar ciertas tareas con may
 
 ### Abrir el buscador
 Podemos usar ``CTRL+SHIFT+P`` para abrirlo e introducir ciertas palabras clave para abrir las funcionalidades del editor más rápido, tales como: __abrir la terminal__, __activar 'X' funcion de una extensión que tengas instalada__ etc..
+
 ![](imgs/atj1.png)
 
-
+----
 ### Seleccionar texto y modificar varios apartados a la vez
 
 Seleccionamos el texto y pulsamos ``CTRL+F2`` o ``CLICK DERECHO, SELECCIONAR TODAS LAS OCURRENCIAS`` y luego presionamos '<-' para desplazarnos por el código.
@@ -72,6 +77,7 @@ Nos sirve para cualquier lenguaje de programacion, html, css....
 
 ``BONUS``: Podemos usar otro atajo ``ALT+CLICK_IZQ`` en cualquier linea para poner le cursor en las líneas que elijamos.
 
+----
 ## Atajos personalizados en VScode
 
 Además de todos los atajos existentes, puedes modificarlos y añadir otros nuevos para practicamente cualquier funcionalidad de **VScode**. Por ejemplo:
