@@ -9,7 +9,6 @@ Estos pueden variar en función del OS que se este usando. Este documento se cen
 ## Atajos Emmet
 Los atajos emmet nos ayudarán a escribir y editar ``HTML`` y ``CSS`` más rápido.
 
-----
 ### Editar etiquetas
 
 Podemos usar ``CTRL+SHIFT+P`` para acceder al buscador, escribir ``EMMET`` y seleccionar atajos como: __encapsular etiqueta__. También se puede crear atajos propios para utilizar estas etiquetas. 
@@ -66,7 +65,6 @@ Sintaxis Emmet: ``elemento*N``
 ## Atajos configurables
 Los atajos propios de ``VScode`` nos ayudarán a realizar ciertas tareas con mayor rapidez.
 
-----
 ### Abrir el buscador
 Podemos usar ``CTRL+SHIFT+P`` para abrirlo e introducir ciertas palabras clave para abrir las funcionalidades del editor más rápido, tales como: __abrir la terminal__, __activar 'X' funcion de una extensión que tengas instalada__ etc..
 
@@ -92,7 +90,10 @@ Además de todos los atajos existentes, puedes modificarlos y añadir otros nuev
 * Puedes añadir seleccionar un texto y comentarlo/descomentarlo automáticamente.
 * ETC...!
 
-Para acceder a los ``ATAJOS`` y poder personalizarlos/buscarlos tienes que ir a ``RUEDA DE SETTINGS -> METODOS ABREVIADOS DEL TECLADO`` o ``CTRL+K SEGUIDO DE CTRL+S``. Después usar el buscador con palabras clave como ``CONSOLA``, ``TERMINAL``, ``BLOQUE``, ``LINEA`` etc...
+Para acceder a los ``ATAJOS`` y poder personalizarlos/buscarlos tienes que ir:
+* ``RUEDA DE SETTINGS -> METODOS ABREVIADOS DEL TECLADO`` o ``CTRL+K SEGUIDO DE CTRL+S``. 
+
+Después usar el buscador con palabras clave como ``CONSOLA``, ``TERMINAL``, ``BLOQUE``, ``LINEA`` etc...
 
 ![](imgs/atj3.png)
 
