@@ -91,7 +91,7 @@ Además de todos los atajos existentes, puedes modificarlos y añadir otros nuev
 * ETC...!
 
 Para acceder a los ``ATAJOS`` y poder personalizarlos/buscarlos tienes que ir:
-* ``RUEDA DE SETTINGS -> METODOS ABREVIADOS DEL TECLADO`` o ``CTRL+K SEGUIDO DE CTRL+S``. 
+* ``RUEDA DE SETTINGS -> METODOS ABREVIADOS DEL TECLADO`` o ``CTRL+K`` seguido de ``CTRL+S``. 
 
 Después usar el buscador con palabras clave como ``CONSOLA``, ``TERMINAL``, ``BLOQUE``, ``LINEA`` etc...
 
