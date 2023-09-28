@@ -5,9 +5,11 @@ Estos nos permitirán aumentar nuestra productividad y realizar tareas repetitiv
 
 Estos pueden variar en función del OS que se este usando. Este documento se centra en comandos para Windows.
 
+----
 ## Atajos Emmet
 Los atajos emmet nos ayudarán a escribir y editar ``HTML`` y ``CSS`` más rápido.
 
+----
 ### Editar etiquetas
 
 Podemos usar ``CTRL+SHIFT+P`` para acceder al buscador, escribir ``EMMET`` y seleccionar atajos como: __encapsular etiqueta__. También se puede crear atajos propios para utilizar estas etiquetas. 
@@ -16,6 +18,7 @@ Podéis modificarlos dándole click a la rueda de ``SETTINGS``.
 
 ![](imgs/atj2.png)
 
+----
 ### Actualizar una etiqueta o varias etiquetas del mismo tipo
 
 Seleccionamos la linea donde esta la etiqueta que queremos modificar, y pulsamos varias veces ``CTRL+D`` para ir seleccionando las etiquetas (del mismo nombre) que queramos modificar...
@@ -52,15 +55,18 @@ Sintaxis Emmet: ``div.contenedor>div.box${caja$}*9``
 
 ![](imgs/gif1.gif)
 
+----
 ### Crear un elemento multiples veces
 
 Sintaxis Emmet: ``elemento*N``
 
 ![](imgs/gif2.gif)
 
+----
 ## Atajos configurables
 Los atajos propios de ``VScode`` nos ayudarán a realizar ciertas tareas con mayor rapidez.
 
+----
 ### Abrir el buscador
 Podemos usar ``CTRL+SHIFT+P`` para abrirlo e introducir ciertas palabras clave para abrir las funcionalidades del editor más rápido, tales como: __abrir la terminal__, __activar 'X' funcion de una extensión que tengas instalada__ etc..
 
@@ -90,4 +96,5 @@ Para acceder a los ``ATAJOS`` y poder personalizarlos/buscarlos tienes que ir a 
 
 ![](imgs/atj3.png)
 
+----
 ![](imgs/gif10.gif)
